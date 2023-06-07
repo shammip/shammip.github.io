@@ -28,37 +28,40 @@ Reflection on the process you used last week, how can you make the process work 
 * best complexity is O(1) / constant time / constant space 
 * three cases: best case scenario (unlikely to use this one), average case scenario, worst case scenario
 * Example #1: 
-
-`for (array) {		#O(n) because looping through array
+`
+for (array) {		#O(n) because looping through array
 
 	print(num)	#O(1) because printing each element in array once
 	
-}			#time complexity = O(1 x n) = O(n)`
+}			#time complexity = O(1 x n) = O(n)
+`
 
 * Example #2: 
-
-`for (array) {					#O(n)
+`
+for (array) {					#O(n)
 
 	for (int i = 0; i < 500,000; i++)	#O(1) = O(500,000)
 	
 		print(num)			#O(1)
 		
-}						#time complexity = O(1 x 1 x n) = O(n)`
+}						#time complexity = O(1 x 1 x n) = O(n)
+`
 
 * logarithmic time: ex. O(log n)
 
 **Introduction to Recursion:** 
 * iterative algorithm: use for and while loops for repetition 
 * Example:
+`
+for (int i = 1; i <= 10; i++)
 
-`for (int i = 1; i <= 10; i++)
-
-	print(i)`
+	print(i)
+`
 		
 * recursive algorithm: use function calls for repetition 
 * Example:
-
-`function fn(i):
+`
+function fn(i):
 
 	if i > 10:	#base case to stop recursion 
 	
@@ -70,4 +73,5 @@ Reflection on the process you used last week, how can you make the process work 
 	
 	return
 	
-fn(1)`
+fn(1)
+`
