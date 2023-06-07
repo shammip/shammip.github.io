@@ -1,4 +1,8 @@
+[< Home](https://shammip.github.io/)
+
 ## Week 2: Arrays and Strings 
+
+*May 29, 2023 - June 4, 2023*
 
 ### Status Update
 
