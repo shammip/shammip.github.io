@@ -8,7 +8,7 @@
 
 **Motivation:** Technical interviews require a deep understanding of data structures and algorithms, which are essential in order to solve coding problems. I would like to be successful in getting an internship so preparing for technical interviews would be highly beneficial for me.
 
-**Project Goal:** The primary goal of this project is for me to complete Leetcode’s Interview Crash Course: Data Structures and Algorithms. The course material will contain readings, videos, practice problems, and quizzes.
+**Project Goal:** The primary goal of this project is for me to complete [Leetcode’s Interview Crash Course: Data Structures and Algorithms](https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/). The course material will contain readings, videos, practice problems, and quizzes.
 
 The course is divided into 13 chapters, which I will learn on a weekly basis, except for the last two chapters, which I will condense into one week. The schedule is below:
 
