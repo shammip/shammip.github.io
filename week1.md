@@ -65,17 +65,17 @@ for (int i = 1; i <= 10; i++)
 * Example:
 
 `
-function fn(i):
+	function fn(i):
 
-	if i > 10:	#base case to stop recursion 
-	
-		return 
-		
-	print(i)
-	
-	fn(i + 1)
-	
-	return
-	
-fn(1)
+		if i > 10:	#base case to stop recursion 
+
+			return 
+
+		print(i)
+
+		fn(i + 1)
+
+		return
+
+	fn(1)
 `
