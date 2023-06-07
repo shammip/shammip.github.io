@@ -1,6 +1,7 @@
 ## Week 1: Introduction
 
 ### Status Update
+
 What did you do last week?
 * N/A
 
