@@ -40,4 +40,4 @@ For weekly goals, see Project Assessments. 
 * I will practice the assigned problems that are associated with each topic.
 * I will take the end of topic quiz, with a goal of achieving 80% or higher in order to demonstrate that I have learned the topic successfully.
 
-**Project Link:** https://shammip.github.io/
+**Project Link:** [https://shammip.github.io/](https://shammip.github.io/)
