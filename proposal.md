@@ -1,3 +1,5 @@
+## Project Proposal ##
+
 **Title: Master DS & A**
 
 **Vision Statement:** I would like to master data structures and algorithms in order to prepare for technical interviews.
