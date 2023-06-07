@@ -64,8 +64,6 @@ for (int i = 1; i <= 10; i++)
 * recursive algorithm: use function calls for repetition 
 * Example:
 
-`
-
 	function fn(i):
 
 		if i > 10:	#base case to stop recursion 
@@ -79,4 +77,4 @@ for (int i = 1; i <= 10; i++)
 		return
 
 	fn(1)
-`
+
