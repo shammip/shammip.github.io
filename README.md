@@ -1,2 +1,2 @@
-# shammip.github.io
-### Hi there
+# Shammi's CSPB 3112 Project
+### Proposal
