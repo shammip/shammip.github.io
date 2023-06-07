@@ -28,6 +28,7 @@ Reflection on the process you used last week, how can you make the process work 
 * best complexity is O(1) / constant time / constant space 
 * three cases: best case scenario (unlikely to use this one), average case scenario, worst case scenario
 * Example #1: 
+
 `
 for (array) {		#O(n) because looping through array
 
@@ -37,6 +38,7 @@ for (array) {		#O(n) because looping through array
 `
 
 * Example #2: 
+
 `
 for (array) {					#O(n)
 
@@ -52,6 +54,7 @@ for (array) {					#O(n)
 **Introduction to Recursion:** 
 * iterative algorithm: use for and while loops for repetition 
 * Example:
+
 `
 for (int i = 1; i <= 10; i++)
 
@@ -60,6 +63,7 @@ for (int i = 1; i <= 10; i++)
 		
 * recursive algorithm: use function calls for repetition 
 * Example:
+
 `
 function fn(i):
 
