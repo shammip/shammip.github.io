@@ -8,10 +8,6 @@
 
 What did you do last week?
 * Wrote a weekly update
-* Updated website using HTML
-
-What did you do last week?
-* Wrote a weekly update
 * Updated website using GitHub Pages Markdown
 * Completed LeetCode - Hashmaps and Sets: wrote notes, successfully solved 2 practice problems, took quiz (80%)
 
